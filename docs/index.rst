@@ -1,0 +1,5 @@
+===============
+studiocils.core
+===============
+
+User documentation
